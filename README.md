@@ -34,3 +34,4 @@
 
 <h2 align="center"> Projeto de Estudo no aprendizado de Lógica de programação. </h2>
 <p align="justify"> Este é um trabalho educaconal no aprendizado da linguagem JavaScript de aluno iniciante na área de T.I. (programação). Eu. Oferecido pela Alura + ONE </p>
+<p align="justify"> Trabalho realizado tendo como base as aulas e pesquisas adicionais na web </p>
